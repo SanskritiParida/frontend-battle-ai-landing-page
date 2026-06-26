@@ -1,5 +1,29 @@
 # 🚀 NeuroFlow AI
 
+> A modern AI SaaS landing page built with React + Vite.
+
+## 📸 Project Preview
+
+### Hero
+
+![Hero](screenshots/hero.png)
+
+### Features
+
+![Features](screenshots/Features.png)
+
+### Pricing
+
+![Pricing](screenshots/Pricing.png)
+
+### Testimonials
+
+![Testimonials](screenshots/Testimonials.png)
+
+### Footer
+
+![Footer](screenshots/footer.png)
+
 > A modern AI SaaS landing page built with **React + Vite**, created as a learning project inspired by the design and engineering challenges of the **IIT Bhubaneswar Frontend Hackathon**.
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
