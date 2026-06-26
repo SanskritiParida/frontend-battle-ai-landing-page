@@ -164,9 +164,11 @@ Add screenshots of:
 
 ---
 
-## 🌐 Live Demo
+🚀 **Live Website:**  
+[https://frontend-battle-ai-landing-page.vercel.app](https://frontend-battle-ai-landing-page.vercel.app)
 
-**Live Site:** *Add your Vercel URL here*
+💻 **GitHub Repository:**  
+[https://github.com/SanskritiParida/frontend-battle-ai-landing-page](https://github.com/SanskritiParida/frontend-battle-ai-landing-page)
 
 ---
 
@@ -174,7 +176,7 @@ Add screenshots of:
 
 **Sanskriti Parida**
 
-* GitHub: https://github.com/SanskritiParida
+
 
 
 ---
