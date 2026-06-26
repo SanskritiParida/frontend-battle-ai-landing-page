@@ -6,23 +6,23 @@
 
 ### Hero
 
-![Hero](screenshots/hero.png)
+![Hero](src/screenshots/hero.png)
 
 ### Features
 
-![Features](screenshots/Features.png)
+![Features](src/screenshots/Features.png)
 
 ### Pricing
 
-![Pricing](screenshots/Pricing.png)
+![Pricing](src/screenshots/Pricing.png)
 
 ### Testimonials
 
-![Testimonials](screenshots/Testimonials.png)
+![Testimonials](src/screenshots/Testimonials.png)
 
 ### Footer
 
-![Footer](screenshots/footer.png)
+![Footer](src/screenshots/footer.png)
 
 > A modern AI SaaS landing page built with **React + Vite**, created as a learning project inspired by the design and engineering challenges of the **IIT Bhubaneswar Frontend Hackathon**.
 
